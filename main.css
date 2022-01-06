@@ -4,17 +4,21 @@
     width: 600px;
     background: lightpink;
     border-radius: 20px;
+    /* position: absolute; */
 }
 #imageBox{
     margin-left: 30px;
     height: 200px;
     width: 200px;
 }
-#image{
+#image,#image1{
     height: 200px;
     width: 200px;
 }
 
 .button-left{
     margin-left: 520px;
+}
+.position{
+    position:relative;
 }
